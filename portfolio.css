@@ -1,0 +1,42 @@
+#logo{bordr: 1px solid black;margin: 0px 0px 0px 0px;
+display: inline-block; ;}
+#mh{border-radius: 70px 50px 70px 50px;display:inline-block;bordr: 1px solid black;margin:0px 0px 0px 0px;
+}
+#navbar{display: inline-block;text-align:justify;margin: 0px 0px 0px 0px;border: 1xp solid black;}
+#ul{display: inline block;margin: -138px 0px 90px 879px ;;borde: solid black;}
+#li1{bordr: 1px solid black;display: inline-block;margin: 0px 0px 0px 0px;color: white;}
+#li2{bordr: 1px solid black;display: inline-block;margin:0px 0px 0px 20px;color: white;}
+#li3{bordr: 1px solid black;display: inline-block;margin:0px 0px 0px 20px;color: white;}
+#li4{bordr: 1px solid black;display: inline-block;margin:0px 0px 0px 20px;color: white;}
+#li5{bordr: 1px solid black;display: inline-block;margin:-45px 0px 0px 350px;}
+#maindiv{display: inline block;borde: 1px solid black;margin:0px 0px 0px 0px ;background-color:rgb(5, 6, 39);border-radius: 15px 15px 15px 15px;}
+#contact{background-color: transparent;border-color: gold;color: gold;margin-left: 80px;margin-top: 70px;}
+#contact:hover{background-color:rgb(24, 83, 1);}
+p{color: beige;display: inline-block;font-size: xx-large;}
+a{color: white;text-decoration: none;font-size: larger;}
+a:hover{color: gold;}
+#name{margin: -155px 0px 0px 141px;}
+div{margin: 80px 0px 0px 1100px;}
+li{margin-bottom: 0px;}
+#text{borde: 1px solid black;margin: 30px 0px 0px 0px;padding: 0%;display: inline block;width: 100%;}
+#right{border: 1px solid black;padding: 0%;margin: 0px 0px 0px 810px;border: inset 10px;width: 700px;}
+#mypic{borde: 1px solid black;border-radius: 0%;margin: 0px 0px 0px 0px;;}
+#left{margin: -371px 0px 0px 0px;padding: 0%;width: 50%;borde: 1px solid black;text-align: center}
+#p2{color: black;font-style: oblique;}
+#bar{border: 1px solid black;margin: 130px 0px 0px 0px;padding: 0%;height: 40px;background-color: black;}
+#dots{color: aliceblue;margin-top: -20px;}
+#hi{margin-left: 0px;width: 150px;height: 50px; background-color: transparent;font-family: 'Times New Roman', Times, serif;font-size: larger;border-color:transparent;}
+#hi:hover{border-color: rgb(90, 8, 8);color: rgb(97, 8, 8);cursor:pointer;}
+#portfolio {margin:0px 0px 0px -20px;padding: 0%;borde: 1px solid black;text-align: center;}
+#cards{bordr: 1px solid black;margin: 0px 0px 0px 0px;padding: 0%;display: inline-block;width: 100%;}
+#c1{margin:0px 0px 0px 20px ;padding: 0%;width: 400px;bordr: 1px solid black;box-shadow: 20px 20px 40px;}
+#c2{margin:-538px 0px 0px 574px ;padding: 0%;width: 400px;bordr: 1px solid black;}
+#c3{margin:-541px 0px 0px 1145px ;padding: 0%;width: 400px;bordr: 1px solid black;}}
+#c2>#ch1{border-radius: 0px;margin: 0%;padding: 0%; width: 400px;}
+#c2>#ch2{border-radius: 0px;margin: 0%;padding: 0%; width: 400px}
+#c3>#ch3{border-radius: 0px;margin: 0%;padding: 0%; width: 400px}
+#footer{border: 1px solid black;margin:330px 0px 0px 0px ;padding: 0%;height: 250px;background-color: black;display: inline-block;width: 100%;text-align: center;}
+#c1,#c2,#c3{box-shadow: 20px 20px 40px;}
+#made{margin: 0px 0px 0px 0px}
+#by{margin: -50px 0px 0px 0px;}
+#emial{margin: 0px 0px 0px 0px;padding: 0%;}
